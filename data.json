@@ -1,0 +1,13 @@
+{
+    "name": "John Doe",
+    "age": "28",
+    "email": "johndoe@example.com",
+    "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "zipcode": "10001"
+    },
+    "phone_numbers": ["+1234567890", "+0987654321"],
+    "is_member": "true",
+    "join_date": "2022-07-01"
+}
